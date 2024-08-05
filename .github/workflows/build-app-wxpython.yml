@@ -152,4 +152,3 @@ jobs:
           file: ./dist/OpenCore-Patcher-Uninstaller.pkg
           tag: ${{ github.ref }}
           file_glob: true
-          
